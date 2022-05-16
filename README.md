@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DavidKarpinski!
+- 👀 I’m interested in Hacking and Programming;
+- 🌱 I’m currently learning Java and Hacking;
+- 📫 How to reach me: karpinski.david@tuta.io
