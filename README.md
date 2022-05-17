@@ -1,5 +1,7 @@
 # David Eduardo Karpinski
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+
 ## Something about me
 
 - 👋 Hi, I’m @DavidKarpinski!
