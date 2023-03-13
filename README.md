@@ -1,7 +1,4 @@
 # David Eduardo Karpinski
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
 ## Something about me
 
 - 👋 Hi, I’m @DavidKarpinski!
