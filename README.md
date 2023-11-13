@@ -1,7 +1,7 @@
 # David Eduardo Karpinski
 ## About
 
-🤘🏻🫵🏻I’m David Eduardo Karpinski
+🤘🏻 I’m David Eduardo Karpinski
 
 🪲 I’m currently learning Bug Bounty
 
