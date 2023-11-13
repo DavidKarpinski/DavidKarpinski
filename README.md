@@ -13,7 +13,7 @@ How to reach me: karpinski.david@tuta.io
 <style>
   hr {
     border: 0;
-    height: 2px;
+    height: 3px;
     background: #333;
   }
 </style>
