@@ -1,5 +1,5 @@
 # David Eduardo Karpinski
-## Something about me
+## About
 
 I’m David Eduardo Karpinski
 
