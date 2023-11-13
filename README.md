@@ -3,13 +3,13 @@
 
 I’m David Eduardo Karpinski
 
-I’m currently learning Bug Bounty
+🪲 I’m currently learning Bug Bounty
 
-Studying Cyber Defense at FIAP
+🛡️ Studying Cyber Defense at FIAP
 
-How to reach me: karpinski.david@tuta.io
+📫 How to reach me: karpinski.david@tuta.io
 
-Link Tree: [@davidkarpinski1](https://linktr.ee/DavidEduardoKarpinski)
+🌴 Link Tree: [@davidkarpinski1](https://linktr.ee/DavidEduardoKarpinski)
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarpinski&layout=compact&theme=dracula)
