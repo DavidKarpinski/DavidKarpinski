@@ -8,6 +8,7 @@ I’m currently learning Bug Bounty
 Studying Cyber Defense at FIAP
 
 How to reach me: karpinski.david@tuta.io
+Instagram: [@davidkarpinski1](https://www.instagram.com/davidkarpinski1/)
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarpinski&layout=compact&theme=dracula)
