@@ -10,7 +10,13 @@ Studying Cyber Defense at FIAP
 How to reach me: karpinski.david@tuta.io
 
 
----
+<style>
+  hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+  }
+</style>
 
 ## Banners
 
