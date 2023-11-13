@@ -1,7 +1,7 @@
 # David Eduardo Karpinski
 ## Something about me
 
-I’m @DavidKarpinski!
+I’m David Eduardo Karpinski
 
 I’m currently learning Bug Bounty
 
