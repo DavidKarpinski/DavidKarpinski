@@ -9,20 +9,11 @@ Studying Cyber Defense at FIAP
 
 How to reach me: karpinski.david@tuta.io
 
-
-<style>
-  hr {
-    border: 0;
-    height: 3px;
-    background: #FF0000;
-  }
-</style>
-
-## Banners
-
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarpinski&layout=compact&theme=dracula)
 
+## Banners
+___
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)
