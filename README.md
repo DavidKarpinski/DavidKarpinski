@@ -10,8 +10,9 @@ Studying Cyber Defense at FIAP
 How to reach me: karpinski.david@tuta.io
 
 
+***
 
-
+## Banners
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarpinski&layout=compact&theme=dracula)
