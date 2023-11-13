@@ -2,9 +2,14 @@
 ## Something about me
 
 I’m @DavidKarpinski!
-I’m currently learning Bug Bounty;
+
+I’m currently learning Bug Bounty
+
 Studying Cyber Defense at FIAP
+
 How to reach me: karpinski.david@tuta.io
+
+
 
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
