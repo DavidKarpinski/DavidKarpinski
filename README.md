@@ -14,7 +14,7 @@ How to reach me: karpinski.david@tuta.io
   hr {
     border: 0;
     height: 3px;
-    background: #333;
+    background: pink;
   }
 </style>
 
