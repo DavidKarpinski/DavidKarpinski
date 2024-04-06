@@ -52,6 +52,6 @@ Cyber Defense<br>
 
 ## How to reach me:
 E-Mail: karpinski.david@tuta.io<br>
-LinkTree: [@davidkarpinski1](https://linktr.ee/DavidEduardoKarpinski)<br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkarpinski1)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkarpinski1/)
+LinkTree: [@davidkarpinski1](https://linktr.ee/DavidEduardoKarpinski)
+<br><br>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkarpinski1)<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkarpinski1/)
