@@ -12,7 +12,7 @@ Hello, I'm David Eduardo Karpinski, Cyber Defense student. I started studying we
 
 ## Graduation
 
-<span style="color:pink">**FIAP**</span><br>
+**FIAP**<br>
 Cyber Defense<br>
 2024-2026
 
