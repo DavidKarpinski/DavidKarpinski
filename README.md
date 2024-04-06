@@ -19,9 +19,9 @@ Cyber Defense<br>
 <div style="display: flex;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4kKuq7VRtWO3tFULeUQi1HgeTsppQA9-0AsI8Zl_sg" alt="Descrição da imagem" style="width: 200px; height: 200px;">
     <div style="margin-left: 20px;">
-        <p>Linha 1 do texto.</p>
-        <p>Linha 2 do texto.</p>
-        <p>Linha 3 do texto.</p>
+        <p><strong>FIAP</strong></p>
+        <p>Cyber Defense</p>
+        <p>2024-2026</p>
     </div>
 </div>
 
