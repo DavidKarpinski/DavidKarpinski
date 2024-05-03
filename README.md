@@ -7,6 +7,7 @@ My name is David Eduardo Karpinski and I am a Cyber Defense student. I started s
 <br><br>
 Me chamo David Eduardo Karpinski e sou estudante de Defesa Cibernética. Comecei estudando desenvolvimento web em um programa governamental, mas mudei para Cibersegurança quando descobri que poderia trabalhar encontrando falhas em sistemas e quebrando códigos de forma ética. Me apaixonei pela área, e já conquistei algumas certificações renomadas como a CAP e IC-EH-1460. 
 
+<hr>
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarpinski&layout=compact&theme=dracula)
