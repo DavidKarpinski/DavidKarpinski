@@ -7,8 +7,6 @@ Hello, I'm David Eduardo Karpinski, Cyber Defense student. I started studying we
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarpinski&layout=compact&theme=dracula)
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/davidkarpinski1.png)
-
 
 ***
 
@@ -57,3 +55,5 @@ E-Mail: karpinski.david@tuta.io<br>
 LinkTree: [@davidkarpinski1](https://linktr.ee/DavidEduardoKarpinski)
 <br><br>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkarpinski1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkarpinski1/)
+<br><br>
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/davidkarpinski1.png)
