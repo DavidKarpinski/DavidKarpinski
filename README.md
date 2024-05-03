@@ -7,6 +7,8 @@ Hello, I'm David Eduardo Karpinski, Cyber Defense student. I started studying we
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavidKarpinski&show_icons=true&theme=dracula)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarpinski&layout=compact&theme=dracula)
+![TryHackMe](https://tryhackme.com/badge/1136276)
+
 
 ***
 
