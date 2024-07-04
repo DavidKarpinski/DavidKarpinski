@@ -40,11 +40,6 @@ Cyber Defense<br>
 - C/C++
 - BashScript
 
-### JavaScript Frameworks
-
-- React
-- Vanilla JS
-
 ***
 
 ## Languages
