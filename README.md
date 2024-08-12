@@ -1,5 +1,5 @@
 # David Eduardo Karpinski
-### CAP | IC-EH-1460 | Hacking | Cybersec
+### SYCP | CAP | C3SA | IC-EH-1460 | Hacking | Cybersec | Red Team
 
 ## About
 
@@ -24,10 +24,12 @@ Cyber Defense<br>
 
 ## Certifications
 
-- CAP (Certified AppSec Practitioner)
+- SYCP
+- SYAP
+- C3SA
+- CAP
 - IBSEC IC-EH-1460 Ethical Hacking
 - EF SET C2 Proeficient
-- Next: SYCP
 
 ***
 
@@ -53,6 +55,6 @@ Cyber Defense<br>
 E-Mail: karpinski.david@tuta.io<br>
 LinkTree: [@davidkarpinski1](https://linktr.ee/DavidEduardoKarpinski)
 <br><br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkarpinski1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkarpinski1/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkarpinski01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkarpinski1/)
 <br><br>
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/davidkarpinski1.png)
