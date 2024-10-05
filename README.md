@@ -3,9 +3,9 @@
 
 ## About
 
-My name is David Eduardo Karpinski and I am a Cyber Defense student. I started studying web development in a government program, but switched to Cybersecurity when I discovered I could work on finding flaws in systems and breaking code ethically.
+My name is David Eduardo Karpinski and I am a Cyber Defense student. I started studying web development in a government program, but switched to Cybersecurity when I discovered I could work on finding flaws in systems and breaking code ethically. Nowadays I work as a professional pentester.
 <br><br>
-Me chamo David Eduardo Karpinski e sou estudante de Defesa Cibernética. Comecei estudando desenvolvimento web em um programa governamental, mas mudei para Cibersegurança quando descobri que poderia trabalhar encontrando falhas em sistemas e quebrando códigos de forma ética.
+Me chamo David Eduardo Karpinski e sou estudante de Defesa Cibernética. Comecei estudando desenvolvimento web em um programa governamental, mas mudei para Cibersegurança quando descobri que poderia trabalhar encontrando falhas em sistemas e quebrando códigos de forma ética. Hoje em dia atuo como Pentester.
 
 
 <hr>
