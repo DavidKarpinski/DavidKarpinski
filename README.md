@@ -1,11 +1,12 @@
 # David Eduardo Karpinski
-### SYCP | CAP | C3SA | IC-EH-1460 | Hacking | Cybersec | Red Team
+### SYCP | SYAP | CAP | C3SA | CEHPT | IC-EH-1460 | Hacking | Pentest | Red Team
 
 ## About
 
 My name is David Eduardo Karpinski and I am a Cyber Defense student. I started studying web development in a government program, but switched to Cybersecurity when I discovered I could work on finding flaws in systems and breaking code ethically.
 <br><br>
 Me chamo David Eduardo Karpinski e sou estudante de Defesa Cibernética. Comecei estudando desenvolvimento web em um programa governamental, mas mudei para Cibersegurança quando descobri que poderia trabalhar encontrando falhas em sistemas e quebrando códigos de forma ética.
+
 
 <hr>
 
@@ -28,8 +29,11 @@ Cyber Defense<br>
 - SYAP
 - C3SA
 - CAP
+- CEHPT
 - IBSEC IC-EH-1460 Ethical Hacking
 - EF SET C2 Proeficient
+- Next: SYWP
+
 
 ***
 
@@ -40,6 +44,7 @@ Cyber Defense<br>
 - Python
 - Nodejs
 - C/C++
+- Ruby
 - BashScript
 
 ***
